@@ -960,6 +960,7 @@ Here are some companies/projects using Swagger Codegen in production. To add you
 - [StyleRecipe](http://stylerecipe.co.jp)
 - [Svenska Spel AB](https://www.svenskaspel.se/)
 - [Switch Database](https://www.switchdatabase.com/)
+- [SQ72](http://www.sq72.co/)
 - [TaskData](http://www.taskdata.com/)
 - [ThirdWatch.ai](https://www.thirdwatch.ai/)
 - [ThoughtWorks](https://www.thoughtworks.com)
